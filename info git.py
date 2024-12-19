@@ -5,3 +5,6 @@ git checkout <branch_name> => branchga o'tish
 git merge <branch_name> => branchni birlashtiriash
 '''
 
+
+def abuokacha():
+  pass
